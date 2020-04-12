@@ -1,0 +1,9 @@
+{
+  "name": "generate-json-exports",
+  "version": "0.1.0",
+  "description": "Generate a file exporting objects from JSON files at development and build time.",
+  "bin": {
+    "generate-json-exports": "src/cli.js"
+  },
+  "author": "Hubol"
+}
